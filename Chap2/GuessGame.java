@@ -62,6 +62,7 @@ public class GuessGame {
                 }
                 
                 System.out.println("Game over.");
+                break;
             } else {
                 System.out.println("Let's try it again!");
             }
